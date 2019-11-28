@@ -1,4 +1,4 @@
-# first-project
+# First Project For Vue Js Learning
 
 ## Project setup
 ```
