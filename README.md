@@ -1,12 +1,21 @@
 # First Project For Vue Js Learning
 
+## Basic Requirement
+```
+1. Node JS
+2. Git / Command Prompt
+3. IDE (Visual Studio Code)
+```
+
 ## Project setup
 ```
-npm install
+npm install -global @vue/cli @vue/cli-service-global
+vue create <folder_name>
 ```
 
 ### Compiles and hot-reloads for development
 ```
+cd vue-app
 npm run serve
 ```
 
